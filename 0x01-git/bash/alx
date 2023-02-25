@@ -1,2 +1,1 @@
--e #!/bin/bash\necho "ALX" 
--e #!/bin/bash\necho "School" 
+echo ALX
